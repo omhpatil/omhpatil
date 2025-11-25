@@ -6,3 +6,5 @@
 <li>📫 How to reach me: <strong><a href="mailto:patilom887@gmail.com">patilom887@gmail.com</a></strong></li>
 <li>⚡ Fun fact <strong>I am deeply in love with Java ❤️</strong></li>
 </ul>
+
+![Profile Views](https://komarev.com/ghpvc/?username=omhpatil&color=blue)
