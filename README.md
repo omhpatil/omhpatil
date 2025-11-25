@@ -7,4 +7,6 @@
 <li>⚡ Fun fact <strong>I am deeply in love with Java ❤️</strong></li>
 </ul>
 
-![Profile Views](https://komarev.com/ghpvc/?username=omhpatil&color=blue)
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/omhpatil/count.svg" />
+</p>
